@@ -1,0 +1,151 @@
+commit 93f4d4e9de1fb12877bc049a358e91813d467a83
+Author: Sandra Aro <sandra16bb@gmail.com>
+Date:   Wed Aug 31 17:01:43 2022 -0400
+
+    Una versión de hyperblog
+
+commit bbbf53fc2a5ff87476a867df03e6bfee0bfde733
+Author: Sandra Aro <sandra16bb@gmail.com>
+Date:   Wed Aug 31 14:33:57 2022 -0400
+
+    Agregando una historia
+    
+    Agregando la historia de mi proyecto
+
+commit 6d9b2cb6a5b7f9760d232f7217b5200c952a5dc2
+Author: Sandra Aro <sandra16bb@gmail.com>
+Date:   Tue Aug 30 17:19:48 2022 -0400
+
+    Cambie el titulo del Blog
+    
+    porque quiero y puedo
+
+commit d6f47ebb84ee7476208eead402a7c9f87d3ca29f
+Merge: 14b0fe9 78a38fe
+Author: Sandra Aro <sandra16bb@gmail.com>
+Date:   Tue Aug 30 12:11:09 2022 -0400
+
+    Solucione el conflicto de las ramas al fusionar
+
+commit 14b0fe9dd26bc2a97fdf814512ddccda9a0c60f8
+Author: Sandra Aro <sandra16bb@gmail.com>
+Date:   Tue Aug 30 12:01:10 2022 -0400
+
+    Cambie Cabecera por Confianza, color del Body y like por Me Gusta
+
+commit 78a38fef9b55afe0eac555d39c057ba1a3f9a6ae
+Author: Sandra Aro <sandra16bb@gmail.com>
+Date:   Tue Aug 30 11:57:55 2022 -0400
+
+    Cambie nombre a Cabecera y color del body
+
+commit e6d8aba90905498e8756ac5a9cd03a388d38b50d
+Merge: 8a04199 6443392
+Author: Sandra Aro <sandra16bb@gmail.com>
+Date:   Tue Aug 30 11:38:34 2022 -0400
+
+    Solucione el conflicto de las ramas al fusionar
+
+commit 8a041996f1edb4ad2402fa51581a57521c4c60e5
+Author: Sandra Aro <sandra16bb@gmail.com>
+Date:   Tue Aug 30 11:24:52 2022 -0400
+
+    Agregue suscripción, cambie la cabecera maestro y puse todo azul
+
+commit 64433929c314df41a44a404ff828c0880759f6ac
+Merge: 34188ed 0f0f8f8
+Author: Sandra Aro <sandra16bb@gmail.com>
+Date:   Tue Aug 30 11:15:34 2022 -0400
+
+    Merge branch 'master' into cabecera
+
+commit 34188ed52c48d738ab228214dff8412f02d9c5e8
+Author: Sandra Aro <sandra16bb@gmail.com>
+Date:   Tue Aug 30 11:14:14 2022 -0400
+
+    se cambio el color a rojo
+
+commit 0f0f8f8938cf9deec46ee4d8ddeb6cc8b7cd2015
+Author: Sandra Aro <sandra16bb@gmail.com>
+Date:   Tue Aug 30 10:03:35 2022 -0400
+
+    Cambiando la fuente a Arial
+
+commit e52564977582437a3a87b0392931b0699696079a
+Merge: 2f813f3 c0c08d1
+Author: Sandra Aro <sandra16bb@gmail.com>
+Date:   Tue Aug 30 09:28:15 2022 -0400
+
+    Merge branch 'cabecera'
+
+commit 2f813f314dc2752cbc10e7257986fb3077530b84
+Author: Sandra Aro <sandra16bb@gmail.com>
+Date:   Tue Aug 30 09:21:12 2022 -0400
+
+    Agregado el contenido adicional del blog y nueva tipografia
+
+commit c0c08d161b4ec22c7c4bc6ac23d9cb472c6b7657
+Author: Sandra Aro <sandra16bb@gmail.com>
+Date:   Tue Aug 30 09:15:32 2022 -0400
+
+    finalizada la cabecera con diseño azul
+
+commit 0da9bdec7e4216c06fd4f73e88c3298deb39ba5a
+Author: Sandra Aro <sandra16bb@gmail.com>
+Date:   Tue Aug 30 08:50:25 2022 -0400
+
+    Agregando cabecera al blogpost
+
+commit 87ae94cc479e1c5c55634b82b2b9bb4f4739b3af
+Author: Sandra Aro <sandra16bb@gmail.com>
+Date:   Mon Aug 29 16:26:05 2022 -0400
+
+    container, post y estilos
+
+commit bd469e579ff0e33a89962a375bc06b8e517a805c
+Author: Sandra Aro <sandra16bb@gmail.com>
+Date:   Mon Aug 29 11:58:01 2022 -0400
+
+    vida y obra maestra
+
+commit e9e28f1304849c427fbefe569576c0049114631c
+Author: Sandra Aro <sandra16bb@gmail.com>
+Date:   Mon Aug 29 11:50:42 2022 -0400
+
+    Inicio mi proyecto real con html y css
+
+commit 1fe9966835947b164923cb4990b45f780ab75a2c
+Author: Sandra Aro <sandra16bb@gmail.com>
+Date:   Fri Aug 26 11:07:45 2022 -0400
+
+    Se agrego mas info "La historia no ha terminado"
+
+commit a50b2f2e37334142237894a6f14305e9ed1e2cfd
+Author: Sandra Aro <sandra16bb@gmail.com>
+Date:   Thu Aug 25 15:02:35 2022 -0400
+
+    Se agrego información de mi Madre
+
+commit a0b4b28999f782ac697a3de5e3154f2d37e9bd8d
+Author: Sandra Aro <sandra16bb@gmail.com>
+Date:   Thu Aug 25 14:59:34 2022 -0400
+
+    Se agrego cambios a sus gustos.
+
+commit 4a868dfc3f2e66eef98b23d82f811d81d3ada078
+Author: Sandra Aro <sandra16bb@gmail.com>
+Date:   Thu Aug 25 14:56:40 2022 -0400
+
+    se añadio información del usuario
+
+commit 6d716dcc9af9fc12e9ef3bcb648456a61f7361fb
+Author: Sandra Aro <sandra16bb@gmail.com>
+Date:   Thu Aug 25 14:35:14 2022 -0400
+
+    Cambios al archivo de historia para reflejar la edad
+
+commit 7a391d991bc4fc71f95b0a22940e1540fcd33277
+Author: Sandra Aro <sandra16bb@gmail.com>
+Date:   Thu Aug 25 14:16:24 2022 -0400
+
+    Este es el primer commit de este archivo
